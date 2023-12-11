@@ -8,5 +8,7 @@ namespace ProjectForGit
 {
 	internal class Book
 	{
+		int Id { get; set; }
+		string Name { get; set; } = "";
 	}
 }
