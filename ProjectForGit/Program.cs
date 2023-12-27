@@ -13,6 +13,7 @@
 			// Решил подзадачу 6
 			// subtask_1
 			// subtask_2
+			// subtask_3
 
 		}
 	}
